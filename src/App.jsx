@@ -5,6 +5,8 @@ import About from "./pages/About";
 import Courses from "./pages/Courses";
 import Gallery from "./pages/Gallery";
 import Team from "./pages/Team";
+import Contact from "./pages/ContactUs";
+import ApplyNow from "./pages/Apply";
 
 
 
@@ -40,11 +42,6 @@ const App = () => {
       />
 
       <Route
-        path="/courses/apply"
-        element={<Placeholder title="Apply Now" />}
-      />
-
-      <Route
         path="/gallery"
         element={<Gallery />}
       />
@@ -56,8 +53,14 @@ const App = () => {
 
       <Route
         path="/contact"
-        element={<Placeholder title="Contact Us" />}
+        element={<Contact />}
       />
+
+      <Route
+        path="/apply"
+        element={<ApplyNow />}
+      />
+
     </Routes>
   );
 };

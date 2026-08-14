@@ -420,7 +420,7 @@ const Home = () => {
                             </Link>
 
                             <Link
-                                to="/courses/apply"
+                                to="/apply"
                                 className="rounded-full bg-[#f5a623] px-5 py-2.5 text-sm font-bold text-white transition hover:bg-white hover:text-[#101923]"
                             >
                                 Apply Now
