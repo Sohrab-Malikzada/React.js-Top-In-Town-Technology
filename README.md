@@ -21,7 +21,23 @@
 </p>
 
 
----
+🌍 Live Demo
+
+🔗 Live Website:
+<p align="center">
+  <a href="https://react-js-top-in-town-technology.vercel.app/" target="_blank">
+    <img 
+      src="./src/assets/image/homePage.png" 
+      alt="Top in Town Technology Website Preview"
+      width="100%"
+    />
+  </a>
+</p>
+
+🔗 GitHub Repository:
+```
+[MY_GITHUB_REPOSITORY_URL](https://github.com/Sohrab-Malikzada/React.js-Top-In-Town-Technology/
+ ```
 
 
 ## 🌐 Project Overview
@@ -392,23 +408,6 @@ Dark Mode
 ![Dark Mode](./screenshots/contact-dark.png)
 
 
-🌍 Live Demo
-
-🔗 Live Website:
-<p align="center">
-  <a href="https://react-js-top-in-town-technology.vercel.app/" target="_blank">
-    <img 
-      src="./assets/image/homePage.png" 
-      alt="Top in Town Technology Website Preview"
-      width="100%"
-    />
-  </a>
-</p>
-
-🔗 GitHub Repository:
-```
-[MY_GITHUB_REPOSITORY_URL](https://github.com/Sohrab-Malikzada/React.js-Top-In-Town-Technology/
- ```
 
 💼 Why This Project Matters
 
