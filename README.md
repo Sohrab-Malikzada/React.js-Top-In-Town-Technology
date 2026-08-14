@@ -390,13 +390,25 @@ Add your mobile screenshot here.
 ![Mobile Contact Page](./screenshots/contact-mobile.png)
 Dark Mode
 ![Dark Mode](./screenshots/contact-dark.png)
+
+
 🌍 Live Demo
 
 🔗 Live Website:
-YOUR_LIVE_WEBSITE_URL
+<p align="center">
+  <a href="https://react-js-top-in-town-technology.vercel.app/" target="_blank">
+    <img 
+      src="./assets/image/homePage.png" 
+      alt="Top in Town Technology Website Preview"
+      width="100%"
+    />
+  </a>
+</p>
 
 🔗 GitHub Repository:
-YOUR_GITHUB_REPOSITORY_URL
+```
+[MY_GITHUB_REPOSITORY_URL](https://github.com/Sohrab-Malikzada/React.js-Top-In-Town-Technology/
+ ```
 
 💼 Why This Project Matters
 
@@ -519,4 +531,4 @@ It was built not only to demonstrate visual design skills, but also to demonstra
 
 This project is intended for educational, portfolio and demonstration purposes.
 
-<p align="center"> <strong>Built with React ⚛️ and a focus on modern web experiences.</strong> </p> <p align="center"> ⭐ If you find this project useful, consider giving the repository a star. </p> ```
+<p align="center"> <strong>Built with React ⚛️ and a focus on modern web experiences.</strong> </p> <p align="center"> ⭐ If you find this project useful, consider giving the repository a star. </p> 
