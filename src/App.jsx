@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Courses from "./pages/Courses";
 import Gallery from "./pages/Gallery";
+import Team from "./pages/Team";
 
 
 
@@ -50,7 +51,7 @@ const App = () => {
 
       <Route
         path="/team"
-        element={<Placeholder title="Our Team" />}
+        element={<Team />}
       />
 
       <Route
