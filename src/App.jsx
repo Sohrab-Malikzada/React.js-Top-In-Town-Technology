@@ -2,6 +2,8 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Courses from "./pages/Courses";
+import Gallery from "./pages/Gallery";
 
 
 
@@ -33,7 +35,7 @@ const App = () => {
 
       <Route
         path="/courses"
-        element={<Placeholder title="Courses" />}
+        element={<Courses />}
       />
 
       <Route
@@ -43,7 +45,7 @@ const App = () => {
 
       <Route
         path="/gallery"
-        element={<Placeholder title="Gallery" />}
+        element={<Gallery />}
       />
 
       <Route
